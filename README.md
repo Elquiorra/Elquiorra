@@ -1,6 +1,6 @@
 ### Hey there, I'm Justin 👋
 ---
-Nice to meet you! I am an active Game Application and Technology Major Student 🎮☺
+Nice to meet you! I'm an active Game Application and Technology Major Student 🎮☺
  
 <table width="100%">
   <thead>
