@@ -1,4 +1,4 @@
-### Hi there, I'm Justin 👋
+### Hey there, I'm Justin 👋
 ---
 Nice to meet you! I am an active Game Application and Technology Major 🎮☺
  
