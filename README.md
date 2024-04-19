@@ -6,10 +6,10 @@ Nice to meet you! 😁
 
 <br>
 
-<b>About Me:
+<b>About Me:</br>
 <br>
-
 I'm an active Game Application and Technology Major Student 👾
+<br>
 I love art 🎑 and music 🎸
 
 Welcome
