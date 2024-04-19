@@ -12,7 +12,6 @@ I'm an active Game Application and Technology Major Student 👾
 <br>
 I love art 🎑 and music 🎸
 
-Welcome
 <table width="100%">
   <thead>
     <tr>
