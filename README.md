@@ -15,8 +15,8 @@ I love art 🎨 and music 🎸
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="">The Boy and The Wisp</a></th>
-     <th width="50%" align="center"><a href="">CyberPong Edgerunner</a></th>
+      <th width="50%" align="center">**The Boy and The Wisp**</th>
+     <th width="50%" align="center">**CyberPong Edgerunner**</th>
     </tr>
   </thead>
   <tbody>
@@ -38,8 +38,8 @@ I love art 🎨 and music 🎸
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Across-Java">Across Java</a></th>
-     <th width="50%" align="center"><a href="">5 Years From Now</a></th>
+      <th width="50%" align="center">**Across Java**</th>
+     <th width="50%" align="center">**5 Years From Now**</th>
     </tr>
   </thead>
   <tbody>
