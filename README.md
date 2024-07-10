@@ -18,7 +18,7 @@ I love art 🎨 and music 🎸
       <th width="50%" align="center">
         <h2>The Boy and The Wisp</h2>
       </th>
-     <th width="50%" align="center" font-weight: bold>
+     <th width="50%" align="center">
        <h2>CyberPong Edgerunner</h2>
      </th>
     </tr>
@@ -41,10 +41,12 @@ I love art 🎨 and music 🎸
         
 <table width="100%">
   <thead>
-    <tr>
-      <th width="50%" align="center">**Across Java**</th>
-     <th width="50%" align="center">**5 Years From Now**</th>
-    </tr>
+    <th width="50%" align="center">
+        <h2>Across Java</h2>
+      </th>
+     <th width="50%" align="center">
+       <h2>5 Years From Now</h2>
+     </th>
   </thead>
   <tbody>
     <tr>
