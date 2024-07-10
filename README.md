@@ -15,10 +15,10 @@ I love art 🎨 and music 🎸
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center">
-        <p>**The Boy and The Wisp**</p>
+      <th width="50%" align="center" font-weight: bold>
+        <p>The Boy and The Wisp</p>
       </th>
-     <th width="50%" align="center">
+     <th width="50%" align="center" font-weight: bold>
        <p>CyberPong Edgerunner</p>
      </th>
     </tr>
