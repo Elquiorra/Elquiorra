@@ -16,10 +16,10 @@ I love art 🎨 and music 🎸
   <thead>
     <tr>
       <th width="50%" align="center" font-weight: bold>
-        <p>The Boy and The Wisp</p>
+        <h1>The Boy and The Wisp</h1>
       </th>
      <th width="50%" align="center" font-weight: bold>
-       <p>CyberPong Edgerunner</p>
+       <h1>CyberPong Edgerunner</h1>
      </th>
     </tr>
   </thead>
