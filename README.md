@@ -25,8 +25,8 @@ I love art 🎨 and music 🎸
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Elquiorra/Elquiorra/blob/main/TheBoyandTheWisp.gif"/></td>
-      <td><img src="https://github.com/Elquiorra/Elquiorra/blob/main/CyberPongEdgerunner.gif"/></td>
+      <td><img src="https://github.com/Elquiorra/Elquiorra/blob/main/BoyWisp.gif"/></td>
+      <td><img src="https://github.com/Elquiorra/Elquiorra/blob/main/CyberPong.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">The Boy and The Wisp is a 2D platformer rage game. A boy got transported into another world which is dark and unsettling. In need of finding a way to return, he met a Wisp that is willing to light the way for him.</td>
