@@ -15,7 +15,7 @@ I love art 🎨 and music 🎸
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center" font-weight: bold>
+      <th width="50%" align="center">
         <h2>The Boy and The Wisp</h2>
       </th>
      <th width="50%" align="center" font-weight: bold>
