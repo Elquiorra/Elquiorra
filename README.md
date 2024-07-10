@@ -15,6 +15,29 @@ I love art 🎨 and music 🎸
 <table width="100%">
   <thead>
     <tr>
+      <th width="50%" align="center"><a href="">The Boy and The Wisp</a></th>
+     <th width="50%" align="center"><a href="">CyberPong Edgerunner</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/Elquiorra/Elquiorra/blob/main/TheBoyandTheWisp.gif"/></td>
+      <td><img src="https://github.com/Elquiorra/Elquiorra/blob/main/CyberPongEdgerunner.gif"/></td>
+    </tr>
+    <tr>
+      <td valign="text-top">The Boy and The Wisp is a 2D platformer rage game. A boy got transported into another world which is dark and unsettling. In need of finding a way to return, he met a Wisp that is willing to light the way for him.</td>
+     <td valign="text-top">CyberPong Edgerunner is a 3D Pong game. In a cyberpunk settings, control your high-tech car to score the ball to opponent's goal!</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Elquiorra/The-Boy-and-the-Wisp">GitHub page</td>
+      <td align="center"><a href="https://github.com/Elquiorra/CyberPong-Edgerunner">GitHub page</td>
+    </tr>
+  </tbody>
+</table>
+        
+<table width="100%">
+  <thead>
+    <tr>
       <th width="50%" align="center"><a href="https://github.com/Felixwijaya04/Across-Java">Across Java</a></th>
      <th width="50%" align="center"><a href="">5 Years From Now</a></th>
     </tr>
@@ -34,29 +57,6 @@ I love art 🎨 and music 🎸
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Felixwijaya04/Across-Java">GitHub page</td>
-    </tr>
-  </tbody>
-</table>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><a href="">The Boy and The Wisp</a></th>
-     <th width="50%" align="center"><a href="">CyberPong Edgerunner</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/Elquiorra/Elquiorra/blob/main/TheBoyandTheWisp.gif"/></td>
-      <td><img src="https://github.com/Elquiorra/Elquiorra/blob/main/CyberPongEdgerunner.gif"/></td>
-    </tr>
-    <tr>
-      <td valign="text-top">The Boy and The Wisp is a 2D platformer rage game. A boy got transported into another world which is dark and unsettling. In need of finding a way to return, he met a Wisp that is willing to light the way for him.</td>
-     <td valign="text-top">CyberPong Edgerunner is a 3D Pong game. In a cyberpunk settings, control your high-tech car to score the ball to opponent's goal!</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/Elquiorra/The-Boy-and-the-Wisp">GitHub page</td>
-      <td align="center"><a href="https://github.com/Elquiorra/CyberPong-Edgerunner">GitHub page</td>
     </tr>
   </tbody>
 </table>
